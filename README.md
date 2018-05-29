@@ -19,4 +19,6 @@ Tracking down the AWS Developer Associate Training progress on a daily progress
 - Web Access Identity
 
 
+## EC2
 
+- EBS - Storage volume assignment
