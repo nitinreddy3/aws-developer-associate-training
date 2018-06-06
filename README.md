@@ -4,6 +4,8 @@ Tracking down the AWS Developer Associate Training progress on a daily progress
 
 # Day 1 - 27-05-2017
 
+## Introduction to AWS CLI
+
 ## IAM - Identity Access Management
 
 - Users
