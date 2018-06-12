@@ -24,3 +24,18 @@ Tracking down the AWS Developer Associate Training progress on a daily progress
 ## EC2
 
 - EBS - Storage volume assignment
+
+
+
+## S3
+
+- Bucket Creation
+
+- Policies
+
+- EC@ -> S3
+
+
+## VPC
+
+- 
