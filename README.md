@@ -44,6 +44,10 @@ I will be adding useful resources for the certification
 
 ## Cloudfront
 
-## SQE
+## SQS
 
-- 
+## SNS
+
+## SES
+
+
