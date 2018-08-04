@@ -50,4 +50,6 @@ I will be adding useful resources for the certification
 
 ## SES
 
+## Follow AcloudGuru tutorials
 
+## Hands On Labs by LinuxAcademy 
