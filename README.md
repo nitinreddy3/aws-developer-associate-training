@@ -2,8 +2,6 @@
 Tracking down the AWS Developer Associate Training progress on a daily progress
 I will be adding useful resources for the certification
 
-# Day 1 - 27-05-2017
-
 ## Introduction to AWS CLI
 
 ## IAM - Identity Access Management
@@ -49,6 +47,12 @@ I will be adding useful resources for the certification
 ## SNS
 
 ## SES
+
+## CodeBuild
+
+## CodePipeline
+
+## CodeCommit
 
 ## Follow AcloudGuru tutorials
 
